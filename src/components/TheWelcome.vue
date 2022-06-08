@@ -51,14 +51,12 @@ import ToolingIcon from './icons/IconTooling.vue'
 .mother-component {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
-  grid-template-rows: repeat(2, 1fr);
   grid-gap: 10px;
   margin-top: 4rem;
 
 
   @media (max-width: 1024px) {
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(4, 1fr);
   }
 }
 </style>

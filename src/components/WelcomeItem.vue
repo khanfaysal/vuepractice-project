@@ -43,7 +43,6 @@ i {
   place-content: center;
   width: 32px;
   height: 32px;
-
   color: var(--color-text);
 }
 
@@ -70,7 +69,6 @@ h6 {
 
 @media (min-width: 1024px) {
 
-
   i {
     color: var(--vt-c-white);
     background: var(--color-background-soft);
@@ -78,5 +76,7 @@ h6 {
     width: 50px;
     height: 50px;
   }
+
+
 }
 </style>
