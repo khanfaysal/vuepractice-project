@@ -27,6 +27,8 @@
 <style scoped>
 .worksCards {
   width: 100%;
+  padding-right: 1.5rem;
+  margin: 0 auto;
 }
 
 .item {
